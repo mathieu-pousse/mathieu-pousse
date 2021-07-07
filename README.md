@@ -20,6 +20,7 @@ Happy developper, who love to learn new technologies and to masterize them to un
 ### ⏯️ Current
 
 * Lead developper / SRE [@ouest-france](https://www.ouest-france.fr/) (1st regional daily newspaper in 🇫🇷) on the backend of the website / mobile apps.
+* Easily handling 300 requests / seconds in milliseconds
 * Responsible of HA / perfomances / resilience
 * Java ☕ / Spring 🥬 / Kubernetes 🐋 / AWS ☁️ / Monitoring everywhere 🕵️ 📉
 * Reviewer / Lead / Architect / Recruiter 
