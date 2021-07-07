@@ -11,8 +11,8 @@ Happy developper, who love to learn new technologies and to masterize them to un
 * 💪 Robust with Java / Spring* / Docker / Kubernetes
 * 📢 Sharing technical skills, soft skills, speaker
 * 🔭 Interessted by anything
-* 👨‍🏫 Trainer of Java / Spring / Hibernate / Docker / Kubernetes / SOA / Continuous Integration / Git
-* 💚 Convinced by nature
+* 👨‍🏫 Trainer Java / Spring / Hibernate / Official Docker / Kubernetes / SOA / Continuous Integration / Git
+* 💚 Convinced by nature 🌱
 * 🙋‍♂️ Open source contributor as much as possible
 * 🏡 Remote lover
 * :trollface: 💕
@@ -29,7 +29,8 @@ Happy developper, who love to learn new technologies and to masterize them to un
 
 ### ⏮️ Previous
 
-* Worked as Zenika
+* Worked as [Zenika](https://www.zenika.com/)
+* Worked as freelance
 * Worked for Limagrain 🧑‍🌾
 * Worked for YvesRocher 💄🌱
 * Worked for Systeme-U 🛒
