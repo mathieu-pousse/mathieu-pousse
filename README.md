@@ -1,5 +1,7 @@
 # 👷‍ Mathieu POUSSE / Developer | Lead Developer ![Twitter Follow](https://img.shields.io/twitter/follow/m_pousse?label=Follow%20me%20on%20Twitter&style=social)
 
+🇫🇷 / Britanny / Rennes
+
 ## 👱‍♂️ Who am I
 
 Happy developper, who love to learn new technologies and to masterize them to understand the concepts behind them.
@@ -54,16 +56,17 @@ Happy developper, who love to learn new technologies and to masterize them to un
 
 ## 📦 OSS Contributions
 
-* AMP project: https://github.com/ampproject/amp-toolbox/pulls?q=is%3Apr+author%3Amathieu-pousse
-* Docker Selenium HQ: https://github.com/SeleniumHQ/docker-selenium/pulls?q=is%3Apr+author%3Amathieu-pousse
-* RythmJS: https://github.com/Okazari/Rythm.js/pulls?q=is%3Apr+author%3Amathieu-pousse
-* Yandex Postgresql Embedded: https://github.com/yandex-qatools/postgresql-embedded/pulls?q=is%3Apr+author%3Amathieu-pousse
-* Crashub: https://github.com/crashub/crash/pull/99
-* Hazelcast: https://github.com/hazelcast/hazelcast/pull/4839 | https://github.com/hazelcast/hazelcast-code-samples/pull/41
-* Jenkins: https://github.com/jenkinsci/jenkins/pull/954
-* Jenkins - repository-connector-plugin: https://github.com/jenkinsci/repository-connector-plugin/pulls?q=is%3Apr+author%3Amathieu-pousse
-* Jenkins - maven-metadata-plugin: https://github.com/jenkinsci/maven-metadata-plugin/pull/5
-* Jenkins - sloccount-plugin: https://github.com/jenkinsci/sloccount-plugin/pull/27
-* Jenkins - audit-trail-plugin: https://github.com/jenkinsci/audit-trail-plugin/pull/1
+* [AMP project](https://github.com/ampproject/amp-toolbox/pulls?q=is%3Apr+author%3Amathieu-pousse)
+* [Docker Selenium HQ](https://github.com/SeleniumHQ/docker-selenium/pulls?q=is%3Apr+author%3Amathieu-pousse)
+* [RythmJS](https://github.com/Okazari/Rythm.js/pulls?q=is%3Apr+author%3Amathieu-pousse)
+* [Yandex Postgresql Embedded](https://github.com/yandex-qatools/postgresql-embedded/pulls?q=is%3Apr+author%3Amathieu-pousse)
+* [Crashub](https://github.com/crashub/crash/pull/99)
+* [Hazelcast](https://github.com/hazelcast/hazelcast/pull/4839) [...](https://github.com/hazelcast/hazelcast-code-samples/pull/41)
+* [Jenkins](https://github.com/jenkinsci/jenkins/pull/954)
+* [Jenkins - repository-connector-plugin](https://github.com/jenkinsci/repository-connector-plugin/pulls?q=is%3Apr+author%3Amathieu-pousse)
+* [Jenkins - maven-metadata-plugin](https://github.com/jenkinsci/maven-metadata-plugin/pull/5)
+* [Jenkins - sloccount-plugin](https://github.com/jenkinsci/sloccount-plugin/pull/27)
+* [Jenkins - audit-trail-plugin](https://github.com/jenkinsci/audit-trail-plugin/pull/1)
+* ...
 
 
