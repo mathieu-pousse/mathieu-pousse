@@ -40,6 +40,7 @@ Happy developper, who love to learn new technologies and to masterize them to un
         
 ## 📢 Talks
 
+* Mob Programming: the true teamwork approach
 * BBL Craftmaship
 * BBL IntelliJ
 * Speaker @Breizhcamp#2018: HA & Performances (Feedabck about high availaibility and performance [@ouest-france](https://www.ouest-france.fr/)
