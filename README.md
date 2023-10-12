@@ -19,7 +19,15 @@ Happy developper, who love to learn new technologies and to masterize them to un
 
 ## 📍 Status
 
-### ⏯️ Current
+### ▶️ Now
+
+* Lead developper / SRE [@Cloud-IAM](https://www.cloud-iam.com/), a SaaS of Keycloak.
+* Managing and automating dozens of Keycloak cluster in production.
+* Responsible of HA / resilience
+* Java ☕ / Spring 🥬 / 🛠️ terraform - ansible - linux
+* Reviewer / Lead / Architect / Recruiter
+* 
+### ⏯️ Just before
 
 * Lead developper / SRE [@ouest-france](https://www.ouest-france.fr/) (1st regional daily newspaper in 🇫🇷) on the backend of the website / mobile apps.
 * Easily handling 300 requests / seconds in milliseconds
@@ -29,7 +37,8 @@ Happy developper, who love to learn new technologies and to masterize them to un
 
 ### ⏮️ Previous
 
-* Worked as [Zenika](https://www.zenika.com/)
+* Worked for www.ouest-france.fr
+* Consulting / trainer for [Zenika](https://www.zenika.com/)
 * Worked as freelance
 * Worked for Limagrain 🧑‍🌾
 * Worked for YvesRocher 💄🌱
